@@ -1,0 +1,22 @@
+# Site settings
+title: My Jekyll Site
+description: A simple Jekyll site
+url: "https://example.com"
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Permalinks
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
