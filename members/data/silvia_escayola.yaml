@@ -1,0 +1,14 @@
+title: PhD student
+layout: main
+sidebar:
+  title: PhD students
+  staffs: []
+content:
+  name: "Silvia Escayola"
+  photo: "silvia.jpg"
+  contact: "silvieg7@gmail.com"
+  education:
+    - "2017: MSc in Chemistry, Master in Advanced Catalysis and Molecular Modelling (MACMoM), Universitat de Girona, Girona, Catalunya."
+    - "2016: BSc in Chemistry, Universitat de Girona (UdG), Girona, Catalunya."
+  research_topics:
+    - "A joint PhD thesis between Donostia International Physics Center (DIPC) and Universitat de Girona (UdG) about a Theoretical Study of Chemical Structure and Reactivity of aromatic and antiaromatic excited molecular systems."

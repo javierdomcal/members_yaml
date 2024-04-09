@@ -1,0 +1,16 @@
+page:
+  title: PhD students
+layout: main
+sidebar:
+  title: PhD students
+  staffs: []
+contents:
+  name: "Guillem Vila Siles"
+  photo: "guillem.jpg"
+  contact: "gvila1999@gmail.com"
+  education:
+    - "2022: MSc in Chemistry, Master in Advanced Catalysis and Molecular Modelling (MACMoM), Universitat de Girona, Girona, Catalunya."
+    - "2021: BSc in Chemistry, Universitat de Girona (UdG), Girona, Catalunya."
+  research_topics:
+    - "A joint PhD thesis between Donostia International Physics Center (DIPC) and Universitat de Girona (UdG), developing new density functional methods for the accurate calculation of the non-linear optical properties using the density functional theory."
+

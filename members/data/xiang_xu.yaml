@@ -1,0 +1,14 @@
+title: Alumni
+layout: main
+sidebar:
+  title: Alumni
+  staffs: []
+content:
+  name: "Dr. Xiang Xu"
+  photo: "xiang.jpg"
+  contact: "xxseesea@gmail.com"
+  education:
+    - "2017: MSc in Physical Chemistry and Material at the Université de Strasbourg, France."
+    - "2014: BSc in Chemical Engineering and Technology at the Zhengzhou University, China."
+  research_topics:
+    - "London dispersion interaction and electron correlation in model systems."
