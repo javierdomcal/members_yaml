@@ -2,7 +2,7 @@
 title: My Research Group
 description: Welcome to My Research Group - A minimal homepage for testing purposes
 baseurl: "/members_yaml" # the subpath of your site, e.g., /blog/
-url: "https://javierdomcal.github.io" # the base hostname & protocol for your site
+url: "https://javierdomcal.github.io/members_yaml/" # the base hostname & protocol for your site
 
 
 # Build settings
